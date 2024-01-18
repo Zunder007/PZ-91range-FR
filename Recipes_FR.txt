@@ -1,0 +1,15 @@
+Recipes_FR = {
+	Recipe_Make_RR91_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_RR91_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_RR91_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_RR91_Rear_Bullbar = "Fabriquer Pare-buffle arrière",
+	Recipe_Make_RR91_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_RR91_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_RR91_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_RR91_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_RR91_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_RR91_Sunroof = "Fabriquer Toit ouvrant",
+	Recipe_Make_RR91_Tire = "Fabriquer Pneu",
+	Recipe_Make_RR91_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_RR91_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+}
