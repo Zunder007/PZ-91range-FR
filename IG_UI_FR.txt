@@ -1,0 +1,30 @@
+IG_UI_FR = {
+	IGUI_VehicleName91range = "'91 Range Rover 4 portes",
+	IGUI_VehicleName91range2 = "'91 Range Rover 2 portes",
+
+	IGUI_VehiclePartRR91BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartRR91BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartRR91Mudflaps = "Garde-boues",
+	IGUI_VehiclePartRR91Snorkel = "Admission d'air Snorkel",
+	IGUI_VehiclePartRR91SpareTireRoof = "Pneu de secours (toit)",
+	IGUI_VehiclePartRR91SpareTireTrunk = "Pneu de secours (coffre)",
+	IGUI_VehiclePartRR91SideSteps = "Marches latérales",
+	IGUI_VehiclePartRR91SunRoof = "Toit ouvrant",
+
+	IGUI_VehiclePartRR91WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartRR91WindshieldRearArmor = ""Blindage de pare-brise arrière",
+	IGUI_VehiclePartRR91WindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartRR91WindowFrontRightArmor = "Blindage de vitre avant droite",
+	IGUI_VehiclePartRR91WindowRearLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartRR91WindowRearRightArmor = "Blindage de vitre arrière droite",
+	IGUI_VehiclePartRR91WindowBackLeftArmor = "Blindage de lunette arrière gauche",
+	IGUI_VehiclePartRR91WindowBackRightArmor = "Blindage de lunette arrière droite",
+
+	IGUI_VehiclePartWindowBackLeft = "Lunette arrière gauche",
+	IGUI_VehiclePartWindowBackRight = "Lunette arrière droite",
+
+	IGUI_VehiclePartRR91Trunk = "Coffre",
+	IGUI_VehiclePartRR91Roofrack = "Coffre de toit",
+
+	IGUI_CraftCategory_RR91 = "'91 Range Rover Classic",
+}
